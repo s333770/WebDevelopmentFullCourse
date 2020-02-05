@@ -1,0 +1,55 @@
+body {
+  font-family: "Montserrat";
+  background-color: #F7FFF7;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+#title {
+  background-color: #F7FFF7;
+}
+
+#hovedTekst {
+  color: #1A535C;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  background-color: #F7FFF7;
+}
+
+.nav-item {
+  padding: 0 18px 18px 0;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Montserrat-light";
+}
+
+#navhbarheader {
+  color: #1A535C;
+}
+
+/*
+#FFE66D
+#1A535C
+#4ECDC4
+#F7FFF7
+#FF6B6B
+#
+*/
