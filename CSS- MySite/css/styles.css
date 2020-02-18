@@ -1,0 +1,46 @@
+body{
+  margin: 0 auto;
+  text-align: center;
+}
+h1{
+  margin: 0 auto 0 auto;
+  width:10%;
+  text-align: center;
+}
+
+
+.top-container{
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  position: relative;
+  text-align: center;
+}
+.middle-container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  left: 200px;
+
+}
+
+.pro{
+  text-decoration: underline;
+}
+.top-cloud{
+  position: absolute;
+  top:200px;
+  right: 400px;
+}
+.bottom-mountain{
+
+  position: relative;
+  bottom: 50px;
+}
+.bottom-cloud{
+  position: relative;
+}
