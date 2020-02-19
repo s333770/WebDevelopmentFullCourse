@@ -1,30 +1,45 @@
-body{
-  margin: 0 auto;
+body {
+  margin: 0;
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
-h1{
+h1 {
+  width: 20%;
   margin: 0 auto 0 auto;
-  width:10%;
-  text-align: center;
+  font-family: 'Sacramento', serif;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 2;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+color: #11999E;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+    color: #66BFBF;
+
 }
 
 
 .top-container{
-  padding-top: 100px;
-  background-color: #E4F9F5;
-  position: relative;
-  text-align: center;
+  padding-bottom: 100px;
+
+
 }
 .middle-container{
-  background-color: red;
-  width: 200px;
-  height: 200px;
+
 }
 .bottom-container{
-  background-color: blue;
-  width: 200px;
-  height: 200px;
-  left: 200px;
+
 
 }
 
@@ -33,14 +48,14 @@ h1{
 }
 .top-cloud{
   position: absolute;
-  top:200px;
   right: 400px;
+  top: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
 }
 .bottom-mountain{
 
-  position: relative;
-  bottom: 50px;
-}
-.bottom-cloud{
-  position: relative;
 }
